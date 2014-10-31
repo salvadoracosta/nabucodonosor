@@ -1,0 +1,6 @@
+{
+    "db": "mongodb://localhost/mean-dev",
+    "app": {
+        "name": "Nabucodonosor - MEAN app for a lab - Development"
+    }
+}
